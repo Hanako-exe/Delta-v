@@ -13,10 +13,10 @@
     torso:
       part: TorsoChitinid
       organs:
-        heart: OrganAnimalHeart
+        heart: OrganHumanHeart
         lungs: OrganHumanLungs
         stomach: OrganChitinidStomach
-        liver: OrganAnimalLiver
+        liver: OrganChitinidLiver
         kidneys: OrganHumanKidneys
       connections:
       - right arm
